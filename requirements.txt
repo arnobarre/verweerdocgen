@@ -1,0 +1,7 @@
+re
+cv2
+docx
+numpy
+pdf2image
+python-docx
+gender-guesser
